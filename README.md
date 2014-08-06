@@ -20,4 +20,7 @@ Some key features we are hoping to include are:
 
 *Any other thoughts? Let us know at tech@verticalswitch.com.*
 
-`VerticalSwitch <http://www.verticalswitch.com>`_
+------------
+
+Thanks for checking us out.
+[VerticalSwitch](http://www.verticalswitch.com)
